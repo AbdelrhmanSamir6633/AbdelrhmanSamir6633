@@ -9,6 +9,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=BI%20Specialist;Power%20BI%20Developer;Data%20Analyst;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="line-break-gif">
+</p>
+
 - 🏢 I'm a BI Specialist.
 - 👨‍💻 As an Engineering graduate, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with SQL and NOSQL.
